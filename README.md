@@ -2,7 +2,7 @@
 
 ![Captura de Recetas](.readme-static/captura.png)
 
-![Ver la app en producción](https://recetas-pwa.luislirac.now.sh)
+[Ver la app en producción](https://recetas-pwa.luislirac.now.sh)
 
 PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las features que tiene son:
 
